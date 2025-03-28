@@ -11,5 +11,8 @@ Disfruto aprender cosas nuevas y enfrentarme a nuevos retos, lo que me impulsa a
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo una perrita salchica que se llama Pepa.
+- Me gusta mucho el deporte.
+- Soy jugador de Airsoft, tengo un equipo que se llama Perros del Infierno.
+- Me gusta la Musica Electronica.
+  
