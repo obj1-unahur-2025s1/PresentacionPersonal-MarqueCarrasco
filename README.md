@@ -1,7 +1,7 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
-## Presentación Personal
+## Marcos Carrasco
 
 ### Datos Personales
 - Mi nombre es:
